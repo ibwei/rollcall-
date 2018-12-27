@@ -1,0 +1,16 @@
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\bin\Debug\上课随机点名v1.0.exe.config
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\bin\Debug\上课随机点名v1.0.exe
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\bin\Debug\上课随机点名v1.0.pdb
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\obj\Debug\上课随机点名v1.0.csprojAssemblyReference.cache
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\obj\Debug\上课随机点名v1._0.Properties.Resources.resources
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\obj\Debug\上课随机点名v1.0.csproj.GenerateResource.cache
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\obj\Debug\上课随机点名v1.0.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\obj\Debug\上课随机点名v1.0.exe
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\obj\Debug\上课随机点名v1.0.pdb
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\obj\Debug\上课随机点名v1._0.随机点名小助手.resources
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\bin\Debug\MySql.Data.dll
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\bin\Debug\MySql.Data.xml
+C:\Users\USER-PC\source\repos\上课随机点名v1.0\上课随机点名v1.0\obj\Debug\上课随机点名v1.0.csproj.CopyComplete
+C:\Users\USER-PC\Desktop\上课随机点名v1.0.exe.config
+C:\Users\USER-PC\Desktop\上课随机点名v1.0.exe
+C:\Users\USER-PC\Desktop\上课随机点名v1.0.pdb
