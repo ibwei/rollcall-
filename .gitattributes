@@ -1,5 +1,5 @@
 *.js linguist-language=c#
-*.css linguist-language=c#
-*.html linguist-language=c#
-*.java linguist-language=c#
+*.icon linguist-language=c#
+*.cache linguist-language=c#
+*.resource linguist-language=c#
 *.cs linguist-language=c#
