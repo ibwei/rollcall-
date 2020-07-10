@@ -1,0 +1,5 @@
+*.js linguist-language=c#
+*.css linguist-language=c#
+*.html linguist-language=c#
+*.java linguist-language=c#
+*.cpp linguist-language=c#
